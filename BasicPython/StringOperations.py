@@ -62,3 +62,8 @@ s5 = "Python"
 # To compare strings
 print(s4 is s5)
 print(s4 == s5)
+
+print(s5[0:])
+print(s5[1:3])
+print(s5[0:5])
+print(s5[:6])
